@@ -13,3 +13,6 @@ Learn data structure and practice coding test
 
 ## Queue
 ##### First-in-First-out(FIFO)으로 삽입 순서와 삭제 순서가 동일한 자료구조
+
+## Sort
+##### 정렬
